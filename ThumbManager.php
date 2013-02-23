@@ -10,6 +10,7 @@
  *
  * Usage:
  *
+ * require_once("./ThumbManager.php");
  * $tm = new ThumbManager();
  * $tm->thumb_width = 100;
  * $tm->thumb_height = 100;
